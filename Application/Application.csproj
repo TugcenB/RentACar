@@ -7,13 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Features\Brands\" />
-    <Folder Include="Features\Commands\Delete\" />
-    <Folder Include="Features\Commands\Update\" />
-    <Folder Include="Features\Constants\" />
-    <Folder Include="Features\Rules\" />
-    <Folder Include="Features\Profiles\" />
-    <Folder Include="Features\Queries\" />
+    <Folder Include="Features\Brands\Commands\Delete\" />
+    <Folder Include="Features\Brands\Commands\Update\" />
+    <Folder Include="Features\Brands\Constants\" />
+    <Folder Include="Features\Brands\Rules\" />
+    <Folder Include="Features\Brands\Profiles\" />
+    <Folder Include="Features\Brands\Queries\" />
   </ItemGroup>
 
   <ItemGroup>
